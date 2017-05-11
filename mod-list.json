@@ -1,0 +1,120 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    {
+      "name": "HandyHands",
+      "enabled": true
+    },
+    {
+      "name": "Larger Inventory Updated",
+      "enabled": true
+    },
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "long-reach",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "StoneWaterWell",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobvehicleequipment",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LoaderRedux",
+  "version": "0.1.1",
+  "title": "Loader Redux",
+  "author": "Optera",
+	"contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=21729",
+  "homepage": "",
+  "description": "add-loader from kij336 rebalanced for 0.15 with graphics from Angel's Logistics.",
+	"factorio_version": "0.15",
+	"dependencies": ["base >= 0.15.2", "? boblogistics >= 0.15.1"]
+}
