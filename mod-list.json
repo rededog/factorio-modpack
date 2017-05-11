@@ -65,6 +65,10 @@
       "enabled": true
     },
     {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
       "name": "bobvehicleequipment",
       "enabled": true
     },
@@ -101,6 +105,10 @@
       "enabled": true
     },
     {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    {
       "name": "angelsaddons-warehouses",
       "enabled": true
     },
@@ -110,6 +118,10 @@
     },
     {
       "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
       "enabled": true
     },
     {
