@@ -127,6 +127,14 @@
     {
       "name": "LoaderRedux",
       "enabled": true
+    },
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    {
+      "name": "Flow Control",
+      "enabled": true
     }
   ]
 }
