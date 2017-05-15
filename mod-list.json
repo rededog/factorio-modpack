@@ -5,11 +5,23 @@
       "enabled": true
     },
     {
+      "name": "angelsaddons-pressuretanks",
+      "enabled": true
+    },
+    {
       "name": "auto-research",
       "enabled": true
     },
     {
       "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    {
+      "name": "autofill",
+      "enabled": true
+    },
+    {
+      "name": "Big_Brother",
       "enabled": true
     },
     {
@@ -34,6 +46,14 @@
     },
     {
       "name": "Factorissimo2",
+      "enabled": true
+    },
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    {
+      "name": "Flow Control",
       "enabled": true
     },
     {
@@ -126,14 +146,6 @@
     },
     {
       "name": "LoaderRedux",
-      "enabled": true
-    },
-    {
-      "name": "Flare Stack",
-      "enabled": true
-    },
-    {
-      "name": "Flow Control",
       "enabled": true
     }
   ]
