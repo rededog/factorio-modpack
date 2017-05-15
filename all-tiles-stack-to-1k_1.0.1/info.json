@@ -1,0 +1,11 @@
+{
+ "name": "all-tiles-stack-to-1k", 
+ "version": "1.0.1", 
+ "factorio_version": "0.15",
+ "title": "All tiles stack to 1k", 
+ "author": "Mr Doomah", 
+ "contact": "", 
+ "homepage": "", 
+ "description": "Edits any tiles (including modded) to make tiles stack to at least 1000 items, since flooring just takes a huge amount of tiles.", 
+ "dependencies": []
+}
