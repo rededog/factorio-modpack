@@ -1,0 +1,11 @@
+{
+  "name": "rededog-stack-size",
+  "version": "1.0.0",
+  "title": "Rededog's Stack Size",
+  "author": "Rededog",
+  "contact": "",
+  "homepage": "",
+  "description": "Change stack sizes",
+  "factorio_version":"0.15",
+  "dependencies": ["base >= 0.15.0"]
+}

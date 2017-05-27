@@ -1,11 +1,11 @@
 {
   "mods": [
     {
-      "name": "base",
+      "name": "all-tiles-stack-to-1k",
       "enabled": true
     },
     {
-      "name": "angelsaddons-pressuretanks",
+      "name": "base",
       "enabled": true
     },
     {
@@ -70,6 +70,10 @@
     },
     {
       "name": "long-reach",
+      "enabled": true
+    },
+    {
+      "name": "rededog-stack-size",
       "enabled": true
     },
     {
