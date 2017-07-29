@@ -1,8 +1,0 @@
-0.1.2
-- switch to built in copy-paste functions
-
-0.1.1
-- fixed some errors with boblogistics
-
-0.1.0
-- initial release

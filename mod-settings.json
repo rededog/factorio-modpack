@@ -1,0 +1,449 @@
+{
+  "startup": {
+    "Factorissimo2-easy-research": {
+      "value": false
+    },
+    "angels-enable-icon-scaling-silos": {
+      "value": false
+    },
+    "angels-enable-icon-scaling-warehouses": {
+      "value": false
+    },
+    "angels-infinite-ores-yield": {
+      "value": 20
+    },
+    "angels-oil-gas-yield": {
+      "value": 20
+    },
+    "angels-fissure-yield": {
+      "value": 20
+    },
+    "angels-lower-infinite-yield": {
+      "value": 1
+    },
+    "angels-enablefluidreq": {
+      "value": true
+    },
+    "angels-enableinfiniteiron": {
+      "value": true
+    },
+    "angels-enableinfinitecopper": {
+      "value": true
+    },
+    "angels-enableinfinitestone": {
+      "value": true
+    },
+    "angels-enableinfinitecoal": {
+      "value": true
+    },
+    "angels-enableinfiniteuranium": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore1": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore2": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore3": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore4": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore5": {
+      "value": true
+    },
+    "angels-enableinfiniteangelsore6": {
+      "value": true
+    },
+    "angels-enableinfinitebobbauxite": {
+      "value": true
+    },
+    "angels-enableinfinitebobcobalt": {
+      "value": true
+    },
+    "angels-enableinfinitebobgems": {
+      "value": true
+    },
+    "angels-enableinfinitebobgold": {
+      "value": true
+    },
+    "angels-enableinfiniteboblead": {
+      "value": true
+    },
+    "angels-enableinfinitebobnickel": {
+      "value": true
+    },
+    "angels-enableinfinitebobquartz": {
+      "value": true
+    },
+    "angels-enableinfinitebobrutile": {
+      "value": true
+    },
+    "angels-enableinfinitebobsilver": {
+      "value": true
+    },
+    "angels-enableinfinitebobsulfur": {
+      "value": true
+    },
+    "angels-enableinfinitebobtin": {
+      "value": true
+    },
+    "angels-enableinfinitebobtungsten": {
+      "value": true
+    },
+    "angels-enableinfinitebobzinc": {
+      "value": true
+    },
+    "angels-enableinfiniteyuoki": {
+      "value": true
+    },
+    "angels-enableinfiniteuraniumpower": {
+      "value": true
+    },
+    "angels-enableinfinitedarkmatter": {
+      "value": true
+    },
+    "angels-enable-converter": {
+      "value": true
+    },
+    "angels-hide-converter": {
+      "value": true
+    },
+    "angels-enable-acids": {
+      "value": true
+    },
+    "angels-enable-auto-barreling": {
+      "value": false
+    },
+    "angels-marathon-buildingmulti": {
+      "value": 2
+    },
+    "angels-marathon-buildingtime": {
+      "value": 2
+    },
+    "angels-marathon-intermediatemulti": {
+      "value": 1
+    },
+    "angels-marathon-rawmulti": {
+      "value": 1
+    },
+    "bobmods-assembly-chemicalplants": {
+      "value": true
+    },
+    "bobmods-assembly-electrolysers": {
+      "value": true
+    },
+    "bobmods-assembly-electronicmachines": {
+      "value": true
+    },
+    "bobmods-assembly-furnaces": {
+      "value": true
+    },
+    "bobmods-assembly-multipurposefurnaces": {
+      "value": true
+    },
+    "bobmods-assembly-oilrefineries": {
+      "value": true
+    },
+    "bobmods-enemies-aliensdropartifacts": {
+      "value": true
+    },
+    "bobmods-enemies-enableartifacts": {
+      "value": false
+    },
+    "bobmods-enemies-enablenewartifacts": {
+      "value": false
+    },
+    "bobmods-enemies-enablesmallartifacts": {
+      "value": false
+    },
+    "bobmods-inserters-long2": {
+      "value": true
+    },
+    "bobmods-inserters-more2": {
+      "value": true
+    },
+    "bobmods-logistics-drainlessinserters": {
+      "value": false
+    },
+    "bobmods-logistics-extremelyfastbelt": {
+      "value": true
+    },
+    "bobmods-logistics-flyingrobotframes": {
+      "value": true
+    },
+    "bobmods-logistics-roboportrecipeupdate": {
+      "value": true
+    },
+    "bobmods-logistics-robotparts": {
+      "value": true
+    },
+    "bobmods-logistics-robotrequireprevious": {
+      "value": true
+    },
+    "bobmods-mining-areadrills": {
+      "value": true
+    },
+    "bobmods-mining-miningaxes": {
+      "value": true
+    },
+    "bobmods-mining-miningdrills": {
+      "value": true
+    },
+    "bobmods-mining-pumpjacks": {
+      "value": true
+    },
+    "bobmods-mining-waterminers": {
+      "value": true
+    },
+    "bobmods-modules-enablegodmodules": {
+      "value": false
+    },
+    "bobmods-modules-enablegreenmodules": {
+      "value": true
+    },
+    "bobmods-modules-enableproductivitylimitation": {
+      "value": true
+    },
+    "bobmods-modules-enablerawproductivitymodules": {
+      "value": true
+    },
+    "bobmods-modules-enablerawspeedmodules": {
+      "value": true
+    },
+    "bobmods-modules-perlevel-bonus-consumption": {
+      "value": 0.1
+    },
+    "bobmods-modules-perlevel-bonus-pollution": {
+      "value": 0.15
+    },
+    "bobmods-modules-perlevel-bonus-pollutioncreate": {
+      "value": 0.5
+    },
+    "bobmods-modules-perlevel-bonus-productivity": {
+      "value": 0.05
+    },
+    "bobmods-modules-perlevel-bonus-speed": {
+      "value": 0.2
+    },
+    "bobmods-modules-perlevel-penalty-consumption": {
+      "value": 0.1
+    },
+    "bobmods-modules-perlevel-penalty-pollution": {
+      "value": 0.15
+    },
+    "bobmods-modules-perlevel-penalty-speed": {
+      "value": 0.05
+    },
+    "bobmods-modules-productivityhasspeed": {
+      "value": false
+    },
+    "bobmods-modules-start-bonus-consumption": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-pollution": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-pollutioncreate": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-productivity": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-speed": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-consumption": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-pollution": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-speed": {
+      "value": 0.2
+    },
+    "bobmods-modules-transmitproductivity": {
+      "value": false
+    },
+    "bobmods-gems-amethystratio": {
+      "value": 0.5
+    },
+    "bobmods-gems-diamondratio": {
+      "value": 0.2
+    },
+    "bobmods-gems-emeraldratio": {
+      "value": 0.6
+    },
+    "bobmods-gems-rubyratio": {
+      "value": 1
+    },
+    "bobmods-gems-sapphireratio": {
+      "value": 0.8
+    },
+    "bobmods-gems-topazratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-enablebauxite": {
+      "value": false
+    },
+    "bobmods-ores-enablecobaltore": {
+      "value": false
+    },
+    "bobmods-ores-enablegemsore": {
+      "value": false
+    },
+    "bobmods-ores-enablegoldore": {
+      "value": false
+    },
+    "bobmods-ores-enableleadore": {
+      "value": false
+    },
+    "bobmods-ores-enablenickelore": {
+      "value": false
+    },
+    "bobmods-ores-enablequartz": {
+      "value": false
+    },
+    "bobmods-ores-enablerutile": {
+      "value": false
+    },
+    "bobmods-ores-enablesilverore": {
+      "value": false
+    },
+    "bobmods-ores-enablesulfur": {
+      "value": false
+    },
+    "bobmods-ores-enablethoriumore": {
+      "value": false
+    },
+    "bobmods-ores-enabletinore": {
+      "value": false
+    },
+    "bobmods-ores-enabletungstenore": {
+      "value": false
+    },
+    "bobmods-ores-enablewaterores": {
+      "value": false
+    },
+    "bobmods-ores-enablezincore": {
+      "value": false
+    },
+    "bobmods-ores-enhancestone": {
+      "value": true
+    },
+    "bobmods-ores-gemprobability": {
+      "value": 0.05
+    },
+    "bobmods-ores-gemsfromotherores": {
+      "value": false
+    },
+    "bobmods-ores-infiniteore": {
+      "value": false
+    },
+    "bobmods-ores-leadgivesnickel": {
+      "value": false
+    },
+    "bobmods-ores-leadnickelratio": {
+      "value": 0.6
+    },
+    "bobmods-ores-nickelcobaltratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-nickelgivescobalt": {
+      "value": false
+    },
+    "bobmods-ores-unsortedgemore": {
+      "value": false
+    },
+    "bobmods-plates-batteryupdate": {
+      "value": true
+    },
+    "bobmods-plates-cheapersteel": {
+      "value": true
+    },
+    "bobmods-plates-groundwater": {
+      "value": false
+    },
+    "bobmods-plates-inventorysize": {
+      "value": 60
+    },
+    "bobmods-plates-oreoverride": {
+      "value": true
+    },
+    "bobmods-plates-purewater": {
+      "value": false
+    },
+    "bobmods-plates-vanillabarrelling": {
+      "value": false
+    },
+    "bobmods-vehicleequipment-enablevehiclegrids": {
+      "value": true
+    },
+    "bobmods-warfare-drainlesslaserturrets": {
+      "value": false
+    },
+    "bobmods-warfare-robotupdate": {
+      "value": true
+    }
+  },
+  "runtime-global": {
+    "autodeconstruct-remove-target": {
+      "value": true
+    },
+    "Factorissimo2-free-recursion": {
+      "value": false
+    },
+    "Factorissimo2-hide-recursion": {
+      "value": false
+    },
+    "loader-use-trains": {
+      "value": "all trains"
+    },
+    "loader-snapping": {
+      "value": true
+    },
+    "ltn-interface-console-level": {
+      "value": "2: notifications"
+    },
+    "ltn-interface-message-filter-age": {
+      "value": 18000
+    },
+    "ltn-interface-debug-logfile": {
+      "value": false
+    },
+    "ltn-dispatcher-requester-threshold": {
+      "value": 1000
+    },
+    "ltn-dispatcher-provider-threshold": {
+      "value": 1000
+    },
+    "ltn-dispatcher-stop-timeout": {
+      "value": 7200
+    },
+    "ltn-dispatcher-delivery-timeout": {
+      "value": 18000
+    },
+    "ltn-dispatcher-finish-loading": {
+      "value": true
+    },
+    "long-reach-build-distance": {
+      "value": 125
+    },
+    "long-reach-reach-distance": {
+      "value": 125
+    }
+  },
+  "runtime-per-user": {
+    "Factorissimo2-preview-enabled": {
+      "value": true
+    },
+    "Factorissimo2-preview-size": {
+      "value": 300
+    },
+    "Factorissimo2-preview-zoom": {
+      "value": 1
+    }
+  }
+}
