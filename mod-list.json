@@ -85,6 +85,10 @@
       "enabled": true
     },
     {
+      "name": "boblocale",
+      "enabled": true
+    },
+    {
       "name": "boblogistics",
       "enabled": true
     },
@@ -110,6 +114,10 @@
     },
     {
       "name": "bobrevamp",
+      "enabled": true
+    },
+    {
+      "name": "bobsflowcontrol",
       "enabled": true
     },
     {
