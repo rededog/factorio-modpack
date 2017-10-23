@@ -133,6 +133,10 @@
       "enabled": true
     },
     {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
       "name": "Crafting_Speed_Research",
       "enabled": true
     },
@@ -182,6 +186,14 @@
     },
     {
       "name": "StoneWaterWell",
+      "enabled": true
+    },
+    {
+      "name": "UPS-up",
+      "enabled": true
+    },
+    {
+      "name": "what-is-it-really-used-for",
       "enabled": true
     }
   ]

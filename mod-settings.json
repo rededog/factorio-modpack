@@ -3,6 +3,12 @@
     "Factorissimo2-easy-research": {
       "value": false
     },
+    "UPS-up_disable-smoke": {
+      "value": true
+    },
+    "UPS-up_disable-corpses": {
+      "value": false
+    },
     "angels-enable-icon-scaling-silos": {
       "value": false
     },
@@ -392,6 +398,18 @@
     "autodeconstruct-remove-target": {
       "value": true
     },
+    "bottleneck-signals-per-tick": {
+      "value": 40
+    },
+    "bottleneck-show-running-as": {
+      "value": "green"
+    },
+    "bottleneck-show-stopped-as": {
+      "value": "red"
+    },
+    "bottleneck-show-full-as": {
+      "value": "yellow"
+    },
     "Factorissimo2-free-recursion": {
       "value": false
     },
@@ -404,8 +422,11 @@
     "loader-snapping": {
       "value": true
     },
+    "ltn-dispatcher-enabled": {
+      "value": true
+    },
     "ltn-interface-console-level": {
-      "value": "2: notifications"
+      "value": "2: Notifications"
     },
     "ltn-interface-message-filter-age": {
       "value": 18000
