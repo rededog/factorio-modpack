@@ -392,6 +392,12 @@
     },
     "bobmods-warfare-robotupdate": {
       "value": true
+    },
+    "Factorissimo2-power-batching": {
+      "value": 1
+    },
+    "flare-stack-fluid-rate": {
+      "value": 10
     }
   },
   "runtime-global": {
@@ -454,6 +460,12 @@
     },
     "long-reach-reach-distance": {
       "value": 125
+    },
+    "ltn-dispatcher-depot-inactivity": {
+      "value": 300
+    },
+    "ltn-dispatcher-requester-delivery-reset": {
+      "value": false
     }
   },
   "runtime-per-user": {

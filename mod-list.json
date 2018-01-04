@@ -85,10 +85,6 @@
       "enabled": true
     },
     {
-      "name": "boblocale",
-      "enabled": true
-    },
-    {
       "name": "boblogistics",
       "enabled": true
     },
@@ -186,10 +182,6 @@
     },
     {
       "name": "StoneWaterWell",
-      "enabled": true
-    },
-    {
-      "name": "UPS-up",
       "enabled": true
     },
     {
