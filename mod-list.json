@@ -29,7 +29,15 @@
       "enabled": true
     },
     {
+      "name": "angelscomponents",
+      "enabled": true
+    },
+    {
       "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    {
+      "name": "angelslogistics",
       "enabled": true
     },
     {
@@ -54,6 +62,10 @@
     },
     {
       "name": "autofill",
+      "enabled": true
+    },
+    {
+      "name": "belt_buffer",
       "enabled": true
     },
     {
