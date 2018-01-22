@@ -10,10 +10,10 @@
       "value": false
     },
     "angels-enable-icon-scaling-silos": {
-      "value": false
+      "value": true
     },
     "angels-enable-icon-scaling-warehouses": {
-      "value": false
+      "value": true
     },
     "angels-infinite-ores-yield": {
       "value": 20
