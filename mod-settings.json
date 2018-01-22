@@ -466,6 +466,57 @@
     },
     "ltn-dispatcher-requester-delivery-reset": {
       "value": false
+    },
+    "helmod_debug": {
+      "value": "none"
+    },
+    "helmod_debug_filter": {
+      "value": "all"
+    },
+    "helmod_format_number_element": {
+      "value": "0.0"
+    },
+    "helmod_format_number_factory": {
+      "value": "0"
+    },
+    "helmod_display_all_sheet": {
+      "value": false
+    },
+    "helmod_display_real_name": {
+      "value": false
+    },
+    "helmod_display_data_col_index": {
+      "value": false
+    },
+    "helmod_display_data_col_id": {
+      "value": false
+    },
+    "helmod_display_data_col_name": {
+      "value": false
+    },
+    "helmod_display_data_col_type": {
+      "value": false
+    },
+    "helmod_filter_on_text_changed": {
+      "value": false
+    },
+    "helmod_model_filter_factory": {
+      "value": true
+    },
+    "helmod_model_filter_beacon": {
+      "value": true
+    },
+    "helmod_model_filter_generator": {
+      "value": true
+    },
+    "helmod_model_filter_factory_module": {
+      "value": true
+    },
+    "helmod_model_filter_beacon_module": {
+      "value": true
+    },
+    "helmod_properties_tab": {
+      "value": false
     }
   },
   "runtime-per-user": {
@@ -477,6 +528,33 @@
     },
     "Factorissimo2-preview-zoom": {
       "value": 1
+    },
+    "helmod_default_factory_level": {
+      "value": "last"
+    },
+    "helmod_display_size": {
+      "value": "1680x1050"
+    },
+    "helmod_display_size_free": {
+      "value": ""
+    },
+    "helmod_display_main_icon": {
+      "value": true
+    },
+    "helmod_display_location": {
+      "value": "center"
+    },
+    "helmod_display_cell_mod": {
+      "value": "default"
+    },
+    "helmod_display_product_cols": {
+      "value": 5
+    },
+    "helmod_display_ingredient_cols": {
+      "value": 5
+    },
+    "helmod_row_move_step": {
+      "value": 5
     }
   }
 }
