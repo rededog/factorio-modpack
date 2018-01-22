@@ -169,6 +169,10 @@
       "enabled": true
     },
     {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
       "name": "Larger Inventory Updated",
       "enabled": true
     },
