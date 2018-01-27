@@ -153,6 +153,10 @@
       "enabled": true
     },
     {
+      "name": "factorio-reach",
+      "enabled": true
+    },
+    {
       "name": "Factorissimo2",
       "enabled": true
     },
@@ -182,10 +186,6 @@
     },
     {
       "name": "LogisticTrainNetwork",
-      "enabled": true
-    },
-    {
-      "name": "long-reach",
       "enabled": true
     },
     {
