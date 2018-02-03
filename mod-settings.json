@@ -398,6 +398,9 @@
     },
     "flare-stack-fluid-rate": {
       "value": 10
+    },
+    "rso-vanilla-biter-generation": {
+      "value": false
     }
   },
   "runtime-global": {
@@ -517,6 +520,60 @@
     },
     "helmod_properties_tab": {
       "value": false
+    },
+    "rso-region-size": {
+      "value": 7
+    },
+    "rso-starting-richness-mult": {
+      "value": 2
+    },
+    "rso-resource-chance": {
+      "value": 0.5
+    },
+    "rso-global-richness-mult": {
+      "value": 2
+    },
+    "rso-global-size-mult": {
+      "value": 1
+    },
+    "rso-biter-generation": {
+      "value": true
+    },
+    "rso-enemy-chance": {
+      "value": 0.25
+    },
+    "rso-enemy-base-size": {
+      "value": 1
+    },
+    "rso-distance-exponent": {
+      "value": 1.1
+    },
+    "rso-fluid-distance-exponent": {
+      "value": 0.6
+    },
+    "rso-size-exponent": {
+      "value": 0.2
+    },
+    "rso-use-donuts": {
+      "value": true
+    },
+    "rso-remove-trees": {
+      "value": false
+    },
+    "rso-oil-in-start-area": {
+      "value": true
+    },
+    "rso-infinite-ores-in-start-area": {
+      "value": false
+    },
+    "rso-infinite-ore-threshold": {
+      "value": 0.7
+    },
+    "rso-reveal-spawned-resources": {
+      "value": false
+    },
+    "rso-multi-resource-active": {
+      "value": true
     }
   },
   "runtime-per-user": {

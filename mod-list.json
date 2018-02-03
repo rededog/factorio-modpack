@@ -193,6 +193,10 @@
       "enabled": true
     },
     {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
       "name": "Squeak Through",
       "enabled": true
     },
