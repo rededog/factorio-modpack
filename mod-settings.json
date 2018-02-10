@@ -453,7 +453,7 @@
       "value": 7200
     },
     "ltn-dispatcher-delivery-timeout": {
-      "value": 18000
+      "value": 54000
     },
     "ltn-dispatcher-finish-loading": {
       "value": true
