@@ -5,6 +5,14 @@
       "enabled": true
     },
     {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    {
+      "name": "Aircraft",
+      "enabled": true
+    },
+    {
       "name": "all-tiles-stack-to-1k",
       "enabled": true
     },
@@ -62,6 +70,10 @@
     },
     {
       "name": "autofill",
+      "enabled": true
+    },
+    {
+      "name": "beautiful_bridge_railway",
       "enabled": true
     },
     {
@@ -145,11 +157,23 @@
       "enabled": true
     },
     {
+      "name": "clusterio",
+      "enabled": true
+    },
+    {
       "name": "Crafting_Speed_Research",
       "enabled": true
     },
     {
+      "name": "Dectorio",
+      "enabled": true
+    },
+    {
       "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "Explosive Excavation",
       "enabled": true
     },
     {
@@ -169,11 +193,19 @@
       "enabled": true
     },
     {
+      "name": "FNEI",
+      "enabled": true
+    },
+    {
       "name": "HandyHands",
       "enabled": true
     },
     {
       "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "LandfillPainting",
       "enabled": true
     },
     {
@@ -189,6 +221,14 @@
       "enabled": true
     },
     {
+      "name": "miniloader",
+      "enabled": true
+    },
+    {
+      "name": "PoweredFloor",
+      "enabled": true
+    },
+    {
       "name": "rededog-stack-size",
       "enabled": true
     },
@@ -197,11 +237,19 @@
       "enabled": true
     },
     {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    {
       "name": "Squeak Through",
       "enabled": true
     },
     {
       "name": "StoneWaterWell",
+      "enabled": true
+    },
+    {
+      "name": "Teleportation",
       "enabled": true
     },
     {
