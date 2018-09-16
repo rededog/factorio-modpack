@@ -41,6 +41,10 @@
       "enabled": true
     },
     {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    {
       "name": "angelsinfiniteores",
       "enabled": true
     },
@@ -161,11 +165,19 @@
       "enabled": true
     },
     {
+      "name": "cncs_Sulfur_Mod",
+      "enabled": true
+    },
+    {
       "name": "Crafting_Speed_Research",
       "enabled": true
     },
     {
       "name": "Dectorio",
+      "enabled": true
+    },
+    {
+      "name": "even-distribution",
       "enabled": true
     },
     {
@@ -218,6 +230,10 @@
     },
     {
       "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "LossPrevention",
       "enabled": true
     },
     {
